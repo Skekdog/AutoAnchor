@@ -4,4 +4,6 @@
 
 A Roblox Studio plugin to automatically anchor newly added Workspace BaseParts.
 
+Available on the Creator Store [here](https://create.roblox.com/store/asset/14123319791).
+
 Free forever.
