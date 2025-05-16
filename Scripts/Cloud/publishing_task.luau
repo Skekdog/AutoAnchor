@@ -13,7 +13,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 local AssetService = game:GetService("AssetService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
-local ASSET_ID = 18845843214
+local ASSET_ID = 14123319791
 local CREATOR_ID = 965735486
 
 local plugin = ReplicatedStorage:FindFirstChild("Plugin")
