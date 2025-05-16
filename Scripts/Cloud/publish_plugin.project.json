@@ -7,15 +7,6 @@
       "Plugin": {
         "$path": "../../default.project.json"
       }
-    },
-
-    "Workspace": {
-      "$properties": {
-        "Attributes": {
-          "CreatorID": {"Float64": 965735486},
-          "AssetID": {"Float64": 0}
-        }
-      }
     }
   }
 }
