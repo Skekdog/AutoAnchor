@@ -4,8 +4,8 @@ local plugin = GetPlugin
 
 local module = {}
 
-local toolbar = plugin:CreateToolbar("Plugin Template")
-local button = toolbar:CreateButton("Button", "Does something", "rbxassetid://18845890189")
+local toolbar = plugin:CreateToolbar("Auto-Anchor")
+local button = toolbar:CreateButton("Toggle", "Toggles auto-anchoring", "")
 button.ClickableWhenViewportHidden = true
 
 module.Toolbar = toolbar
